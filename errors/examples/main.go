@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
+	"github.com/liyuu127/errors"
 	"github.com/liyuu127/go-practise/errors/code"
-	"github.com/marmotedu/errors"
 )
 
 func main() {

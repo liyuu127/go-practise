@@ -1,7 +1,7 @@
 package code
 
 import (
-	"github.com/marmotedu/errors"
+	"github.com/liyuu127/errors"
 	"github.com/novalagung/gubrak"
 )
 
