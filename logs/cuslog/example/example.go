@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/marmotedu/gopractise-demo/log/cuslog"
+	"github.com/liyuu127/go-practise/logs/cuslog"
 )
 
 func main() {
