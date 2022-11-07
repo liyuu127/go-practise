@@ -1,0 +1,8 @@
+apiVersion: v2
+max-retries: 8
+server:
+  address: http://127.0.0.1:8081
+  timeout: 10s
+user:
+  password: haylion@123
+  username: haylion
